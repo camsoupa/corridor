@@ -1,4 +1,4 @@
-# corridor - an engine for interactive audi-based games
+# corridor - an engine for interactive audio-based games
 
 ## getting started
 
